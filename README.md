@@ -1,6 +1,6 @@
 # Hey, I'm Lykke 👋
 
-### Computer Engineering Student · Developer · Future Problem Solver
+### Computer Engineering Student · Developer
 
 I'm **Lykke Nikolai Holst**, a Computer Engineering student at **OsloMet** 🇳🇴.
 
@@ -12,13 +12,13 @@ My interests currently range from **web and software development** to **AI, robo
 
 ## 🧑‍💻 What I'm Interested In
 
-* 🌐 **Web & Software Development** — building useful, creative and user-focused applications
-* 🤖 **AI & Machine Learning** — especially interested in LLMs and how AI can be integrated into real-world systems
-* 🦾 **Robotics** — combining software, hardware and intelligent systems
-* 🔐 **Cybersecurity & Cryptography** — understanding how systems can be protected and where they can go wrong
-* 🎮 **Game Development** — experimenting with Unity and learning more about game design
-* ☁️ **Cloud Computing** — currently expanding my knowledge of cloud infrastructure and Microsoft Azure
-* 📊 **Data & Data Science** — exploring how data and computational tools can be used to solve problems
+* **Web & Software Development** — building useful, creative and user-focused applications
+* **AI & Machine Learning** — especially interested in LLMs and how AI can be integrated into real-world systems
+* **Robotics** — combining software, hardware and intelligent systems
+* **Cybersecurity & Cryptography** — understanding how systems can be protected and where they can go wrong
+* **Game Development** — experimenting with Unity and learning more about game design
+* **Cloud Computing** — currently expanding my knowledge of cloud infrastructure and Microsoft Azure
+* **Data & Data Science** — exploring how data and computational tools can be used to solve problems
 
 ---
 
@@ -76,21 +76,12 @@ The dream?
 
 When I'm not studying or coding, you'll probably find me:
 
-⚽ Watching or playing football
-🎮 Playing games
-👥 Hanging out with friends
-🕹️ Experimenting with Unity and game development
+Watching or playing football
+Playing games
+Hanging out with friends
+Experimenting with Unity and game development
 
 I'm particularly interested in game development because it combines a lot of things I enjoy about programming: **creativity, problem solving, design and making something people can actually interact with.**
-
----
-
-## 📈 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="165">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=grey" alt="Profile views">
-</p>
 
 ---
 
@@ -99,13 +90,13 @@ I'm particularly interested in game development because it combines a lot of thi
 I'm always interested in meeting other developers, students and people working with interesting technology.
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/lykke-holst-518450413/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_INSTAGRAM_URL">
+  <a href="https://www.instagram.com/lykkemann/">
     <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
-  <a href="YOUR_FACEBOOK_URL">
+  <a href="https://www.facebook.com/lykke.holst.98">
     <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat-square&logo=facebook&logoColor=white" />
   </a>
 </p>
